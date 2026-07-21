@@ -25,7 +25,7 @@ No external chess libraries or engines
 No file creation or network communication
 Required to communicate moves through a custom tournament protocol
 
-### These constraints encouraged efficient data structures, careful memory management, and algorithmic problem solving. The assignment specifications required strict adherence to a judge-based tournament system where engines competed in timed matches.
+These constraints encouraged efficient data structures, careful memory management, and algorithmic problem solving. The assignment specifications required strict adherence to a judge-based tournament system where engines competed in timed matches.
 
 ## Features
 
