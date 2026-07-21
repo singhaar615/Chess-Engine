@@ -1,6 +1,5 @@
-// Modify this file
-// You may add more files if you want
-// USE THE PROVIDED FUNCTIONS TO RECEIVE AND SEND MOVES (OTHERWISE YOU MAY TIME OUT)
+//main logic code
+//AI assistance was used for reference and troubleshooting; all implementation code was written by the author.
 #include "chess.h"
 #include <string.h>
 #include <stdlib.h>
